@@ -17,7 +17,7 @@
 
 #### RANK 1:
   
-<img src="./badges/libft.png" height="90" width="90">
+<img src="https://raw.githubusercontent.com/itsmevitinn/itsmevitinn/main/badges/libft.png)" height="90" width="90">
 </a>
      
 ---
