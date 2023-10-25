@@ -17,6 +17,9 @@ I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm a back-end deve
 ![github](https://user-images.githubusercontent.com/69059969/222243273-d89993d1-da6f-4ae0-9116-6bfecacb2727.png)
 ![vim](https://user-images.githubusercontent.com/69059969/222243471-3da17d3a-9883-4710-bd98-4e4b1e4e63c2.png)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 #
 [![An image of @vitorsantanna2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vitorsantanna2)](https://holopin.io/@vitorsantanna2)
 
