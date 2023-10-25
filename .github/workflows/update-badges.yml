@@ -13,5 +13,5 @@ jobs:
           COMMIT_MESSAGE: "My commit message to update badges" # optional
           CREDLY_USER: joao-vitor-de-araujo-sant-anna
           CREDLY_SORT: POPULAR
-          BADGE_SIZE: 110X110
+          BADGE_SIZE: 110
           NUMBER_LAST_BADGES: 48
