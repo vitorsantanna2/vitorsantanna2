@@ -11,7 +11,7 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           COMMIT_MESSAGE: "My commit message to update badges" # optional
-          CREDLY_USER: joao-vitor-de-araujo-sant-anna # optional, but default will use the same from github
-          CREDLY_SORT: POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
-          BADGE_SIZE: the resolution to the badges images # optional, 110x110 default
-          NUMBER_LAST_BADGES: the maximum last badges to show # optional, will show the 48 in the first page
+          CREDLY_USER: joao-vitor-de-araujo-sant-anna
+          CREDLY_SORT: POPULAR
+          BADGE_SIZE: 110X110
+          NUMBER_LAST_BADGES: 48
