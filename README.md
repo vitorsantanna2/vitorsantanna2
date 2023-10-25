@@ -18,12 +18,12 @@ I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm a back-end deve
 ![vim](https://user-images.githubusercontent.com/69059969/222243471-3da17d3a-9883-4710-bd98-4e4b1e4e63c2.png)
 
 <!--START_SECTION:badges-->
-[![Introduction to Cybersecurity](https://images.credly.com/size/110X110x110X110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/59875e01-f963-42a9-ba8e-f0db0ab4ba0f "Introduction to Cybersecurity")
-[![Introduction to IoT](https://images.credly.com/size/110X110x110X110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](http://www.credly.com/badges/3eb08f57-e759-4f63-8c4a-0d12ee3b0699 "Introduction to IoT")
-[![Python Essentials 1](https://images.credly.com/size/110X110x110X110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/c81dd269-3888-4368-b2df-5569516fe4fc "Python Essentials 1")
-[![Networking Basics](https://images.credly.com/size/110X110x110X110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](http://www.credly.com/badges/2d95cc59-d04c-4d5a-a494-dbb2c0de27d9 "Networking Basics")
-[![Networking Academy Learn-A-Thon 2023](https://images.credly.com/size/110X110x110X110/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png)](http://www.credly.com/badges/b089c881-9cd1-447a-9bd4-b684ba1938c0 "Networking Academy Learn-A-Thon 2023")
-[![Networking Devices and Initial Configuration](https://images.credly.com/size/110X110x110X110/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](http://www.credly.com/badges/3008812b-75de-45b0-9f7f-3d87978ad690 "Networking Devices and Initial Configuration")
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/59875e01-f963-42a9-ba8e-f0db0ab4ba0f "Introduction to Cybersecurity")
+[![Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](http://www.credly.com/badges/3eb08f57-e759-4f63-8c4a-0d12ee3b0699 "Introduction to IoT")
+[![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/c81dd269-3888-4368-b2df-5569516fe4fc "Python Essentials 1")
+[![Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](http://www.credly.com/badges/2d95cc59-d04c-4d5a-a494-dbb2c0de27d9 "Networking Basics")
+[![Networking Academy Learn-A-Thon 2023](https://images.credly.com/size/110x110/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png)](http://www.credly.com/badges/b089c881-9cd1-447a-9bd4-b684ba1938c0 "Networking Academy Learn-A-Thon 2023")
+[![Networking Devices and Initial Configuration](https://images.credly.com/size/110x110/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](http://www.credly.com/badges/3008812b-75de-45b0-9f7f-3d87978ad690 "Networking Devices and Initial Configuration")
 <!--END_SECTION:badges-->
 
 #
