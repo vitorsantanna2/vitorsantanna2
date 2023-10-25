@@ -17,7 +17,8 @@ I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm a back-end deve
 ![github](https://user-images.githubusercontent.com/69059969/222243273-d89993d1-da6f-4ae0-9116-6bfecacb2727.png)
 ![vim](https://user-images.githubusercontent.com/69059969/222243471-3da17d3a-9883-4710-bd98-4e4b1e4e63c2.png)
 
-### Badges
+#
+**Badges**
 <!--START_SECTION:badges-->
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/59875e01-f963-42a9-ba8e-f0db0ab4ba0f "Introduction to Cybersecurity")
 [![Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](http://www.credly.com/badges/3eb08f57-e759-4f63-8c4a-0d12ee3b0699 "Introduction to IoT")
