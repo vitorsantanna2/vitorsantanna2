@@ -1,6 +1,13 @@
 name: Update badges
-
 on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
   schedule:
     # Runs at 0am UTC every day
     - cron: "0 0 * * *"
