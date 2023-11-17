@@ -2,7 +2,7 @@
 
 **`Cybsecurity Analyst`** **`DevOps`** **`Web3 Developer`** **`Software Engineering`**
 
-I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm a back-end developer volunteer in the [Garrafa no Mar](https://github.com/garrafanomar), an Associate Degree IT at [FAETEC/RJ](http://www.faetec.rj.gov.br/) and a software engineer student at [42Rio](https://42.rio/). I'm very interested in the areas of Cybersecurity and DevOps.
+I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm an Associate Degree IT at [FAETEC/RJ](http://www.faetec.rj.gov.br/) and a software engineer student at [42Rio](https://42.rio/). I'm very interested in the areas of Cybersecurity and DevOps.
 #
 **Languages and tools that I've used during my learning journey:**
 
@@ -31,5 +31,3 @@ I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm a back-end deve
 
 #
 <img align="left" src="https://github.com/vitorsantanna2/vitorsantanna2/assets/95882160/f3f04752-6f9c-42ca-a1c0-803694cdfa17" width="48" height="50">
-<a href="github.com/garrafanomar"><img align="left" src="https://github.com/vitorsantanna2/vitorsantanna2/assets/95882160/0b21a256-a6b9-4b63-b1d7-35186203c417" width="40" height="50"></a>
-
