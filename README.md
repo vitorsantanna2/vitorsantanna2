@@ -30,4 +30,5 @@ I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm an Associate De
 <!--END_SECTION:badges-->
 
 #
-<img align="left" src="https://github.com/vitorsantanna2/vitorsantanna2/assets/95882160/f3f04752-6f9c-42ca-a1c0-803694cdfa17" width="48" height="50">
+<img align="left" src="https://github.com/vitorsantanna2/vitorsantanna2/assets/95882160/f3f04752-6f9c-42ca-a1c0-803694cdfa17" width="48" height="50"></img>
+<a href="https://github.com/TupiNymQuim"><img align="left" src="https://github.com/vitorsantanna2/vitorsantanna2/assets/95882160/3ae3859b-140e-4679-a847-a2837b9cadb0" width="48" height="50"></img></a>
