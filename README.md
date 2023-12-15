@@ -21,6 +21,7 @@ I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm an Associate De
 **Badges**
 <!--START_SECTION:badges-->
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/59875e01-f963-42a9-ba8e-f0db0ab4ba0f "Introduction to Cybersecurity")
+[![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](http://www.credly.com/badges/5e403764-0113-459a-96ac-3757259623b5 "CCNA: Introduction to Networks")
 [![Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](http://www.credly.com/badges/3eb08f57-e759-4f63-8c4a-0d12ee3b0699 "Introduction to IoT")
 [![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/c81dd269-3888-4368-b2df-5569516fe4fc "Python Essentials 1")
 [![Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](http://www.credly.com/badges/2d95cc59-d04c-4d5a-a494-dbb2c0de27d9 "Networking Basics")
