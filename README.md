@@ -28,7 +28,7 @@ I'm João Vitor Sant'Anna, live in Rio de Janeiro. Currently I'm an Associate De
 [![Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](http://www.credly.com/badges/a4aeb4ca-7a4b-4a56-9a04-094e881015a7 "Introduction to Data Science")
 [![Networking Academy Learn-A-Thon 2023](https://images.credly.com/size/110x110/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png)](http://www.credly.com/badges/b089c881-9cd1-447a-9bd4-b684ba1938c0 "Networking Academy Learn-A-Thon 2023")
 [![Networking Devices and Initial Configuration](https://images.credly.com/size/110x110/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](http://www.credly.com/badges/3008812b-75de-45b0-9f7f-3d87978ad690 "Networking Devices and Initial Configuration")
-[![42 Cursus - Junior Developer - Level 10]](https://www.credly.com/earner/earned/badge/b6ccb6c5-aa4d-45f9-996f-82e3f86b9dfe)
+[![42 Cursus - Junior Developer - Level 10](https://images.credly.com/size/340x340/images/8468ab9e-d2d7-440c-993d-8ed7e7ebbdb2/image.png!)](https://www.credly.com/earner/earned/badge/b6ccb6c5-aa4d-45f9-996f-82e3f86b9dfe)
 <!--END_SECTION:badges-->
 
 #
